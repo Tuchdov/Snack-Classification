@@ -18,5 +18,5 @@ And the data contains 3 datasets:
 
 The mission is to achieve the highest accuracy possible.
 
-In this workflow I have split the Data into 5 parts to handle: class_imbalance, feture engineering, feature
+In this workflow I have split the Data into 5 parts to handle: class imbalance, feature engineering, feature
 selection, model selection, and tuning to achieve the best performance
